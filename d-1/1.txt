@@ -1,0 +1,9 @@
+WHAT IS NODE
+NodeJS is an open source, cross platform run time environment for executing JS code outside a browser.
+we generally use node to create API's for web-app or mobile app. Node is idle to build highly scabale, data-intensive and real time backend services that powers client applications.
+
+NODE ARCHITECTURE
+node is created on the top of chrome's v8 engine.
+node applications are asynchronous by default.
+
+
