@@ -38,8 +38,10 @@ bower_components
 build/Release
 
 # Dependency directories
+c-1/node_modules/
 node_modules/
 jspm_packages/
+c-1/package-lock.json
 
 # TypeScript v1 declaration files
 typings/
